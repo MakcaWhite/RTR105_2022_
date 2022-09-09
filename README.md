@@ -11,7 +11,7 @@ Klade
 
 P.s :smiley_cat:
 ## **Links**
-You can edit links with this [site](https://stackedit.io/app#)
+You can try to edit text format with this [site](https://stackedit.io/app#)
 
 ## ~~Attels~~ **Image**
 ![image1](https://www.svgrepo.com/show/303615/github-icon-1-logo.svg)
