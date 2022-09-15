@@ -18,8 +18,8 @@ You can try to edit text format with this [site](https://stackedit.io/app#)
 
 
 ## Shell commands
-1 VirtualBox --startvm XP //?
-2 quartus //?
+  1 VirtualBox --startvm XP //?
+  2 quartus //?
 3 firefox & //open browesr firefox
 4 ash //Almquist shell
 5 sh //shell
