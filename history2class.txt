@@ -1,0 +1,19 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  tty
+    5  ps aux
+    6  ps
+    7  git clone https://github.com/MakcaWhite
+    8  git clone https://github.com/MakcaWhite/RTR105_2022_
+    9  ls
+   10  git clone https://github.com/MakcaWhite/RTR105_2022_ RTR105
+   11  ls -lt
+   12  man rmdir
+   13  rmdir RTR105        --ignore-fail-on-non-empty
+   14  rmdir RTR105 -ignore-fail-on-non-empty
+   15  man rm
+   16  rm -f -r RTR105
+   17  ls
+   18* 
+   19  history > history2class.txt
