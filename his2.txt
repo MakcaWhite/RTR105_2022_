@@ -1,0 +1,47 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  tty
+    5  ps aux
+    6  ps
+    7  git clone https://github.com/MakcaWhite
+    8  git clone https://github.com/MakcaWhite/RTR105_2022_
+    9  ls
+   10  git clone https://github.com/MakcaWhite/RTR105_2022_ RTR105
+   11  ls -lt
+   12  man rmdir
+   13  rmdir RTR105        --ignore-fail-on-non-empty
+   14  rmdir RTR105 -ignore-fail-on-non-empty
+   15  man rm
+   16  rm -f -r RTR105
+   17  ls
+   18* 
+   19  history > history2class.txt
+   20  ls
+   21  ls -lt
+   22  cat history2class.txt
+   23  nano history2class.txt
+   24  mv history2class.txt RTR105_2022_/
+   25  cd RTR105_2022_/
+   26  ls
+   27  git add .
+   28  git config --global user.name MakcaWhite
+   29  git config --global user.email m.javorskis@gmail.com
+   30  git commit -m "Class_03a"
+   31  git push origin main 
+   32  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 
+   33  git push origin main 
+   34  git push -all origin main 
+   35  git push --all origin main 
+   36  git push origin main 
+   37  ls -lt -a 
+   38  git config --global user.name MakcaWhite
+   39  git config --global user.email m.javorskis@gmail.com
+   40  git push origin main 
+   41  git commit -m "Class_03a"
+   42  ls -lt
+   43  git push origin main 
+   44  git commit -m "Class_03a"
+   45  histroy
+   46  history
+   47  history > his2.txt
