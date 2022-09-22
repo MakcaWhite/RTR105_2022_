@@ -1,0 +1,82 @@
+    1  ls
+    2  cd ABC
+    3  ls
+    4  cat > a.txt
+    5  ls
+    6  cat a.txt
+    7  cat > a.txt
+    8  cat a.txt
+    9  cat >> a.txt
+   10  cat > a.txt
+   11  cat a.txt
+   12  cat >> a.txt
+   13  cat > a.txt
+   14  cat a.txt
+   15  cat >> a.txt
+   16  cat a.txt
+   17  uname
+   18  uname -a
+   19  ash
+   20  sh
+   21  whoami
+   22  whi
+   23  who
+   24  echo &0
+   25  echo
+   26  echo &o
+   27  echo &0
+   28  man echo
+   29  ls
+   30  mkdir ABC
+   31  ls
+   32  cd ABC
+   33  touch a.txt
+   34  ls
+   35  touch a.txt >>test text
+   36  ls
+   37  cat.txt
+   38  cat a.txt
+   39  touch a.txt >> test text
+   40  cat a.txt
+   41  man cat
+   42  man touch
+   43  touch a.txt 
+   44  a.txt >> ab
+   45  >> a.txt ab
+   46  touch a.txt >> a123
+   47  cat a.txt
+   48  a.txt
+   49  >
+   50  man >
+   51  man touch
+   52  man cat
+   53  cat>a.txt 
+   54  sh
+   55  whoami
+   56  who
+   57  whoami
+   58  man whoami
+   59  uname
+   60  uname -a
+   61  uname
+   62  ls -t
+   63  ls -a
+   64  uname -a
+   65  tty
+   66  echo &0
+   67  sh
+   68  man echo
+   69  ls
+   70  rmdir ab ABC cd
+   71  rmdir ab ABC cd --ignore-fail-on-non-empty 
+   72  ls
+   73  rmdir abcd ABC cd --ignore-fail-on-non-empty 
+   74  ls
+   75  git clone https://github.com/MakcaWhite/RTR105_2022_
+   76  git
+   77  sudo apt install git
+   78  git
+   79  git clone https://github.com/MakcaWhite/RTR105_2022_
+   80  ls
+   81  cd RTR105_2022_/
+   82  history >> history_home_work.txt
