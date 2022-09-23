@@ -1,0 +1,4 @@
+#!/bin/bash 
+
+echo "hello world"
+#ar "#" zimi tiek rakstits komentars

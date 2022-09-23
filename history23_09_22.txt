@@ -1,0 +1,56 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  /bin$
+    4  bin$
+    5  bin$ ls
+    6  cd /
+    7  ls
+    8  cd bin
+    9  ls
+   10  cd
+   11  whereis ls
+   12  ls -lt /bin/ls
+   13  cat /bin/ls
+   14  clear
+   15  whereis ls
+   16  nosaukums izpildisanas tiesibas kaut kur jabut
+   17  nano hello-world
+   18  ls-lt
+   19  ls -lt
+   20  chmod
+   21  chmod 744 hello-world 
+   22  ls -lt
+   23  nosaukums izpildisanas tiesibas kaut kur jabut
+   24  hello-world
+   25  cat hello-world 
+   26  echo hello-world 
+   27  ls -lt
+   28  hello-world
+   29  cat /bin/ls
+   30  clear
+   31  bin$ ls
+   32  ls -lt
+   33  sudo hello-world
+   34  ./hello-world 
+   35  nano hello-world 
+   36  ./hello-world 
+   37  cp hello-world /bin/
+   38  echo $PATH
+   39  PATH=$PATH
+   40  echo $PATH
+   41  PATH=$PATH:/home/user:~:.
+   42  echo $PATH
+   43  hello-world 
+   44  hello
+   45  history
+   46  nano history 
+   47  git clone https://github.com/MakcaWhite/RTR105_2022_
+   48  mv hello-world RTR105_2022_/
+   49  ls
+   50  ls -lt
+   51  cd RTR105_2022_/
+   52  ls
+   53  nano git-upload
+   54  chmod 744 git-upload 
+   55  ls
+   56  history > history23_09_22.txt
