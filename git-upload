@@ -2,5 +2,5 @@
 git add . #tiek pieteiktas adreses "uzmanīšanai"
 git config --global user.name MakcaWhite
 git config --global user.email m.javorskis@gmail.com
-git commit -m "class_04"
+git commit -m "class_$1"
 git push origin main
