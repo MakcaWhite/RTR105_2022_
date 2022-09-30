@@ -1,0 +1,5 @@
+# ignoret ispildamos failus ar paplasinajumu out
+*.out
+#ignoret .o
+*.o
+
